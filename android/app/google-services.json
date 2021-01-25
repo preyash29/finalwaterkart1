@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870715423858",
+    "project_id": "waterkart-fb98e",
+    "storage_bucket": "waterkart-fb98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870715423858:android:0e9852d677fd05b63e56eb",
+        "android_client_info": {
+          "package_name": "com.waterkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870715423858-lk8cncghhc4n4vqv72fsknd1t462ckcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqE3azCHTItyt8nfjaJQVPs_PQmfcXiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870715423858-lk8cncghhc4n4vqv72fsknd1t462ckcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
